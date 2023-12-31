@@ -32,9 +32,9 @@ pip install streamlit pandas scikit-learn nltk
 2. Jalankan program dengan perintah:
 ```
 streamlit run app.py
-
-# === atau ===
-
+```
+atau
+```
 python -m streamlit run app.py
 ```
 3. Buka web browser dan akses alamat yang diberikan oleh Streamlit.
