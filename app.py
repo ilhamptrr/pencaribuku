@@ -78,5 +78,5 @@ def main():
             st.success("Hasil pencarian untuk '{}'".format(query))
             st.table(search_results[['judul', 'penulis', 'sinopsis']])
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#    main()
